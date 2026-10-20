@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:26.941600Z
+addr = 0x1791f10
+size = 0xf0
+name = "CLoopModeGame_StaticInit"
+type = "long long"
+
+[header]
+name = "CLoopModeGame_StaticInit"
+addr = 0x1791f10
+type = "long long"
+
+[header.args]

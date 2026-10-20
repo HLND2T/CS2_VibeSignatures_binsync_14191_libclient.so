@@ -1,0 +1,265 @@
+[0xf28ba0]
+last_change = 2026-10-20T15:10:40.217364Z
+addr = 0xf28ba0
+func_addr = 0xf28aa0
+comment = "0x10 = 16LL = IGameSystemFactory_Shutdown"
+decompiled = true
+
+[0xf291f0]
+last_change = 2026-10-20T15:10:40.243821Z
+addr = 0xf291f0
+func_addr = 0xf29160
+comment = "0x20 = 32LL = IGameSystemFactory_DestroyGameSystem"
+decompiled = true
+
+[0xf29213]
+last_change = 2026-10-20T15:10:40.243836Z
+addr = 0xf29213
+func_addr = 0xf29160
+comment = "0x1D8 = 472LL = IGameSystem_GetName"
+decompiled = true
+
+[0xf3b52f]
+last_change = 2026-10-20T15:10:40.323665Z
+addr = 0xf3b52f
+func_addr = 0xf3b3a0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xf5703b]
+last_change = 2026-10-20T15:10:40.403073Z
+addr = 0xf5703b
+func_addr = 0xf56f80
+comment = "0x8 = 8LL = IGameSystemFactory_PostInit"
+decompiled = true
+
+[0xf5707d]
+last_change = 2026-10-20T15:10:40.403094Z
+addr = 0xf5707d
+func_addr = 0xf56f80
+comment = "0x48 = 72LL = IGameSystemFactory_GetStaticGameSystem"
+decompiled = false
+
+[0xf57080]
+last_change = 2026-10-20T15:10:40.408262Z
+addr = 0xf57080
+func_addr = 0xf56f80
+comment = "0x48 = 72LL = IGameSystemFactory_GetStaticGameSystem"
+decompiled = true
+
+[0xf5d47e]
+last_change = 2026-10-20T15:10:40.429674Z
+addr = 0xf5d47e
+func_addr = 0xf5d400
+comment = "0x28 = 40LL = IGameSystemFactory_ShouldAutoAdd"
+decompiled = true
+
+[0xf5d4e0]
+last_change = 2026-10-20T15:10:40.429692Z
+addr = 0xf5d4e0
+func_addr = 0xf5d400
+comment = "0x18 = 24LL = IGameSystemFactory_CreateGameSystem"
+decompiled = true
+
+[0xf5d4f4]
+last_change = 2026-10-20T15:10:40.429696Z
+addr = 0xf5d4f4
+func_addr = 0xf5d400
+comment = "0x40 = 64LL = IGameSystemFactory_IsReallocating"
+decompiled = true
+
+[0xf5d505]
+last_change = 2026-10-20T15:10:40.429700Z
+addr = 0xf5d505
+func_addr = 0xf5d400
+comment = "0x1E8 = 488LL = IGameSystem_SetName"
+decompiled = true
+
+[0x16ef909]
+last_change = 2026-10-20T15:10:40.642725Z
+addr = 0x16ef909
+func_addr = 0x16ef770
+comment = "switch 10 cases"
+decompiled = false
+
+[0x16ef920]
+last_change = 2026-10-20T15:10:40.642746Z
+addr = 0x16ef920
+func_addr = 0x16ef770
+comment = "switch jump"
+decompiled = false
+
+[0x16ef928]
+last_change = 2026-10-20T15:10:40.642751Z
+addr = 0x16ef928
+func_addr = 0x16ef770
+comment = "jumptable 00000000016EF920 cases 3,8"
+decompiled = false
+
+[0x16ef99d]
+last_change = 2026-10-20T15:10:40.642754Z
+addr = 0x16ef99d
+func_addr = 0x16ef770
+comment = "jumptable 00000000016EF920 case 0"
+decompiled = false
+
+[0x16ef9f0]
+last_change = 2026-10-20T15:10:40.642758Z
+addr = 0x16ef9f0
+func_addr = 0x16ef770
+comment = "jumptable 00000000016EF920 cases 4,9"
+decompiled = false
+
+[0x16efa00]
+last_change = 2026-10-20T15:10:40.642762Z
+addr = 0x16efa00
+func_addr = 0x16ef770
+comment = "jumptable 00000000016EF920 case 2"
+decompiled = false
+
+[0x16efa80]
+last_change = 2026-10-20T15:10:40.642766Z
+addr = 0x16efa80
+func_addr = 0x16ef770
+comment = "jumptable 00000000016EF920 case 7"
+decompiled = false
+
+[0x16efb00]
+last_change = 2026-10-20T15:10:40.642770Z
+addr = 0x16efb00
+func_addr = 0x16ef770
+comment = "jumptable 00000000016EF920 case 1"
+decompiled = false
+
+[0x16efb88]
+last_change = 2026-10-20T15:10:40.642773Z
+addr = 0x16efb88
+func_addr = 0x16ef770
+comment = "jumptable 00000000016EF920 case 6"
+decompiled = false
+
+[0x16efb98]
+last_change = 2026-10-20T15:10:40.642777Z
+addr = 0x16efb98
+func_addr = 0x16ef770
+comment = "jumptable 00000000016EF920 case 5"
+decompiled = false
+
+[0x16efc3f]
+last_change = 2026-10-20T15:10:40.642780Z
+addr = 0x16efc3f
+func_addr = 0x16ef770
+comment = "jumptable 00000000016EF920 default case"
+decompiled = false
+
+[0x1730b54]
+last_change = 2026-10-20T15:10:40.695713Z
+addr = 0x1730b54
+func_addr = 0x1730b20
+comment = "0x68 = 104LL = IGameEventManager2_UnserializeEvent"
+decompiled = true
+
+[0x1730b7e]
+last_change = 2026-10-20T15:10:40.695735Z
+addr = 0x1730b7e
+func_addr = 0x1730b20
+comment = "0x48 = 72LL = IGameEventManager2_FireEventClientSide"
+decompiled = true
+
+[0x175a313]
+last_change = 2026-10-20T15:10:40.775035Z
+addr = 0x175a313
+func_addr = 0x175a290
+comment = "0x98 = 152LL = CEntityInstance_PreDataUpdate"
+decompiled = true
+
+[0x1762b3d]
+last_change = 2026-10-20T15:10:41.224387Z
+addr = 0x1762b3d
+func_addr = 0x1762b20
+comment = "0xE0 = 224LL = IEngineServiceMgr_GetEventDispatcher"
+decompiled = false
+
+[0x1762b43]
+last_change = 2026-10-20T15:10:41.229024Z
+addr = 0x1762b43
+func_addr = 0x1762b20
+comment = "0xE0 = 224LL = IEngineServiceMgr_GetEventDispatcher"
+decompiled = true
+
+[0x18c3f77]
+last_change = 2026-10-20T15:10:41.541858Z
+addr = 0x18c3f77
+func_addr = 0x18c3ee0
+comment = "0x150 = 336LL = IVEngineClient2_IsPlayingDemo"
+decompiled = true
+
+[0x18f62df]
+last_change = 2026-10-20T15:10:41.594840Z
+addr = 0x18f62df
+func_addr = 0x18f5bc0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x19bf891]
+last_change = 2026-10-20T15:10:41.674021Z
+addr = 0x19bf891
+func_addr = 0x19bf200
+comment = "0xF0 = 240LL = IEngineServiceMgr_GetActiveLoopClientServerMode"
+decompiled = false
+
+[0x19bf89a]
+last_change = 2026-10-20T15:10:41.678433Z
+addr = 0x19bf89a
+func_addr = 0x19bf200
+comment = "0xF0 = 240LL = IEngineServiceMgr_GetActiveLoopClientServerMode"
+decompiled = true
+
+[0x1a93aa2]
+last_change = 2026-10-20T15:10:41.700526Z
+addr = 0x1a93aa2
+func_addr = 0x1a93a00
+comment = "s1"
+decompiled = false
+
+[0x1a93afd]
+last_change = 2026-10-20T15:10:41.700548Z
+addr = 0x1a93afd
+func_addr = 0x1a93a00
+comment = "0x190 = 400LL = IVEngineClient2_ExecuteClientCmd"
+decompiled = true
+
+[0x1a93b1f]
+last_change = 2026-10-20T15:10:41.700554Z
+addr = 0x1a93b1f
+func_addr = 0x1a93a00
+comment = "s1"
+decompiled = false
+
+[0x1a93b36]
+last_change = 2026-10-20T15:10:41.700560Z
+addr = 0x1a93b36
+func_addr = 0x1a93a00
+comment = "s1"
+decompiled = false
+
+[0x1a93b4d]
+last_change = 2026-10-20T15:10:41.700565Z
+addr = 0x1a93b4d
+func_addr = 0x1a93a00
+comment = "s1"
+decompiled = false
+
+[0x1a93c6e]
+last_change = 2026-10-20T15:10:41.700571Z
+addr = 0x1a93c6e
+func_addr = 0x1a93a00
+comment = "s1"
+decompiled = false
+
+[0x1a93cc7]
+last_change = 2026-10-20T15:10:41.700577Z
+addr = 0x1a93cc7
+func_addr = 0x1a93a00
+comment = "s1"
+decompiled = false

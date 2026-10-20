@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:26.941539Z
+addr = 0x16f2bc0
+size = 0xc
+name = "CGameEventManager_FireEventClientSide"
+type = "long long"
+
+[header]
+name = "CGameEventManager_FireEventClientSide"
+addr = 0x16f2bc0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:26.941502Z
+addr = 0xf2d3b0
+size = 0xc1
+name = "IGameSystem_LoopPreShutdownAllSystems"
+type = "long long"
+
+[header]
+name = "IGameSystem_LoopPreShutdownAllSystems"
+addr = 0xf2d3b0
+type = "long long"
+
+[header.args]

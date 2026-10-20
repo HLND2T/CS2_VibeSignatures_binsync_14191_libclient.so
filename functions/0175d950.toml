@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:26.941576Z
+addr = 0x175d950
+size = 0x143
+name = "CLoopModeGame_OnLoopActivate"
+type = "unsigned long long **"
+
+[header]
+name = "CLoopModeGame_OnLoopActivate"
+addr = 0x175d950
+type = "unsigned long long **"
+
+[header.args]

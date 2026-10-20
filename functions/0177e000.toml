@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:26.941588Z
+addr = 0x177e000
+size = 0xfa1
+name = "CLoopModeGame_LoopInitInternal"
+type = "long long"
+
+[header]
+name = "CLoopModeGame_LoopInitInternal"
+addr = 0x177e000
+type = "long long"
+
+[header.args]

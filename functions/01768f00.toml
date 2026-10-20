@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:26.941584Z
+addr = 0x1768f00
+size = 0x75
+name = "CLoopModeGame_SetWorldSession"
+type = "long long"
+
+[header]
+name = "CLoopModeGame_SetWorldSession"
+addr = 0x1768f00
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:41.541858Z
+addr = 0x18c3ee0
+size = 0x369
+name = "C_ServerVoiceHandler_OnServerVoiceData"
+type = "long long"
+
+[header]
+name = "C_ServerVoiceHandler_OnServerVoiceData"
+addr = 0x18c3ee0
+type = "long long"
+
+[header.args]

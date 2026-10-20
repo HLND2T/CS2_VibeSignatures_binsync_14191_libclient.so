@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:10:26.941594Z
+addr = 0x1781250
+size = 0xe7d
+name = "CLoopModeGame_OnClientSimulate"
+type = "long long"
+
+[header]
+name = "CLoopModeGame_OnClientSimulate"
+addr = 0x1781250
+type = "long long"
+
+[header.args]

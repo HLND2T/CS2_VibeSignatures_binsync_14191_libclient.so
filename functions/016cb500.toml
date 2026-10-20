@@ -1,0 +1,10 @@
+last_change = 2026-10-20T15:10:26.941532Z
+addr = 0x16cb500
+size = 0x64
+name = "CGameSystemReallocatingFactory_CSource2EntitySystem_CreateGameSystem"
+
+[header]
+name = "CGameSystemReallocatingFactory_CSource2EntitySystem_CreateGameSystem"
+addr = 0x16cb500
+
+[header.args]
